@@ -74,6 +74,7 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+<<<<<<< HEAD
   intl:
     dependency: transitive
     description:
@@ -81,6 +82,8 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.17.0"
+=======
+>>>>>>> 8a21f75fd10dcfaca9792327ef6d4ce6f9b76db6
   lints:
     dependency: transitive
     description:
@@ -149,6 +152,7 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.1.0"
+<<<<<<< HEAD
   syncfusion_flutter_calendar:
     dependency: "direct main"
     description:
@@ -170,6 +174,8 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "19.4.56"
+=======
+>>>>>>> 8a21f75fd10dcfaca9792327ef6d4ce6f9b76db6
   term_glyph:
     dependency: transitive
     description:
@@ -184,6 +190,7 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.4.8"
+<<<<<<< HEAD
   timezone:
     dependency: transitive
     description:
@@ -191,6 +198,8 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.8.0"
+=======
+>>>>>>> 8a21f75fd10dcfaca9792327ef6d4ce6f9b76db6
   typed_data:
     dependency: transitive
     description:
