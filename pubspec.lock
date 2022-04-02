@@ -74,7 +74,7 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-<<<<<<< HEAD
+
   intl:
     dependency: transitive
     description:
@@ -82,8 +82,7 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.17.0"
-=======
->>>>>>> 8a21f75fd10dcfaca9792327ef6d4ce6f9b76db6
+
   lints:
     dependency: transitive
     description:
